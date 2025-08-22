@@ -1,0 +1,9 @@
+.solid {
+    border: 3px solid purple;
+}
+.dashed {
+    border: 3px dashed red;
+}
+.dotted {
+    border: 5px dotted black;
+}

@@ -1,0 +1,47 @@
+.parent {
+    border: 2px solid black;
+    width: 90%;
+    height: 40%;
+} 
+
+
+.sample-one {
+    border: 2px solid red;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    background-color: blueviolet;
+    /* display: inline; */
+    display: inline-block;
+    /* display: none; */
+}
+.sample-two {
+    border: 2px solid black;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    background-color: aqua;
+    /* display: inline; */
+    display: inline-block;
+
+
+}
+.sample-three {
+    border: 2px solid green;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    background-color: brown;
+    /* display: inline; */
+    display: inline-block;
+}
+.sample-four {
+    border: 2px solid blue;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    background-color: chartreuse;
+    /* display: inline; */
+    display: inline-block;
+    /* display: none; */
+}
