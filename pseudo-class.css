@@ -1,0 +1,35 @@
+
+.sample button:hover {
+    background-color: blueviolet;
+    color: yellow;
+}
+
+.sample-one button:hover{
+    background-color: green;
+}
+.active-class button:active {
+    background-color: red;
+}
+.focusing input:focus {
+    color: red;
+    background-color: greenyellow;
+}
+.list ol li:first-child {
+    color: blueviolet;
+}
+.list ol li:last-child {
+    color: red;
+}
+
+.list ol li:nth-child(3){
+    color: blue;
+}
+/* .box input[type="checkbox"]:checked + label {
+    color: orange;
+    background-color: green;
+} */
+
+.box input[type="checkbox"]:checked + label {
+    color: orange;
+    /* background-color: green; */
+}
