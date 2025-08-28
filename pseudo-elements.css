@@ -1,0 +1,17 @@
+.sample p::before {
+    content: "This is pseudo-element--->";
+    color: blue;
+}
+.sample p::after {
+    content: "----->This message from pseudo-elemetns";
+    color: #ff0000;
+}
+
+.sample-one p::first-letter {
+    color: rgb(244, 237, 237);
+    background-color: red;
+}
+.sample-two p::first-line {
+    background-color: green;
+
+}

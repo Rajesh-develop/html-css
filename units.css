@@ -1,0 +1,23 @@
+.units p {
+    background-color: red;
+    width: 50%;
+}
+.units-one p{
+    background-color: green;
+    width: 100px;
+}
+/* 1rem= 16px */
+.units-two p {
+    /* font: 20px; */
+    background-color: blue;
+    width: 40rem;
+    
+}
+
+.units-three p {
+    font: 10px;
+    background-color: purple;
+    width: 50em;
+    /* 10*50 = 500em */
+}
+
