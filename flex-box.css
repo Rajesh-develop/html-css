@@ -1,0 +1,61 @@
+.flex-box {
+    display: flex;
+    flex-direction: column;
+    /* flex-direction: row; */
+    /* flex-direction: row-reverse; */
+    /* justify-content: flex-start; */
+    justify-content: center;
+    /* justify-content: flex-end; */
+    /* justify-content: space-between; */
+    /* justify-content: space-around; */
+    /* justify-content: space-evenly; */
+
+    /* justify-content:
+      always direction from left to right */
+    
+    /* align-items: flex-start; */
+    /* align-items:flex-end; */
+    align-items: center;
+
+    /* align-items: 
+    always direction from top to bottom */
+}
+
+
+
+.flex-box .one {
+    /* height: 100px;
+    width: 100px; */
+     color: rgb(0, 6, 6);
+    border: 3px solid red;
+    background-color: red;
+    /* display: inline-block; */
+}
+.flex-box .two {
+    /* height: 100px;
+    width: 100px; */
+     color: rgb(0, 6, 6);
+    border: 3px solid rgb(0, 255, 55);
+    background-color: greenyellow;
+}
+.flex-box .three {
+    /* height: 100px;
+    width: 100px; */
+     color: rgb(0, 6, 6);
+    border: 3px solid rgb(55, 0, 255);
+    background-color: blue;
+}
+.flex-box .four {
+    /* height: 100px;
+    width: 100px; */
+    color: rgb(0, 6, 6);
+    border: 3px solid rgb(143, 7, 120);
+    background-color: blueviolet;
+}
+.flex-box .five {
+    /* height: 100px;
+    width: 100px; */
+    color: rgb(0, 6, 6);
+    border: 3px solid mediumturquoise;
+    background-color: aqua;
+}
